@@ -1,5 +1,6 @@
 {
   "name": "emi-calculator",
+  "homepage": "http://your-username.github.io/React-EMI-Calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
