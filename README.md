@@ -1,10 +1,20 @@
 <h1>EMI Calculator</h1>
-<p>This is a simple, responsive EMI (Equated Monthly Installment) Calculator built using React. The application allows users to input loan amounts, interest rates, and loan durations to calculate their monthly installments. The user interface is styled with a wooden background theme, giving it a professional and realistic appearance.</p>
+
+<p>This is a responsive EMI (Equated Monthly Installment) Calculator built using React. The application allows users to input loan amounts, interest rates, and loan durations to calculate their monthly installments in real-time.</p>
+
+<h2>Preview</h2>
+
+<img src="./public/Screenshot.png" alt="EMI Calculator Preview">
+
+<p><em>Screenshot of the EMI Calculator application with a wooden background theme.</em></p>
 
 <h2>Features</h2>
+
 <ul>
-  <li><strong>Real-time Calculation:</strong> As you adjust the loan amount, interest rate, or loan duration, the monthly installment amount is recalculated in real-time.</li>
-  <li><strong>Responsive Design:</strong> The layout is optimized for various screen sizes, ensuring a seamless user experience on both desktop and mobile devices.</li>
-  <li><strong>Customizable Range Sliders:</strong> The sliders used to adjust the loan amount, interest rate, and loan duration are color-coordinated with the theme and are easily adjustable.</li>
-  <li><strong>Modern UI:</strong> The calculator is styled with a clean, modern interface, featuring a wooden background that complements the financial theme of the application.</li>
+  <li><strong>Real-time Calculation</strong>: Instantly updates the monthly installment amount as you adjust the loan parameters.</li>
+  <li><strong>Responsive Design</strong>: Optimized for both desktop and mobile viewing.</li>
+  <li><strong>Customizable Range Sliders</strong>: Sliders are styled to match the theme, with a wooden background that gives the app a professional look.</li>
+  <li><strong>Modern UI</strong>: The calculator has a clean, modern interface that is both visually appealing and easy to use.</li>
 </ul>
+
+
